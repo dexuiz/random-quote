@@ -1,0 +1,44 @@
+.contain{
+  width:400px;
+  margin:100px auto;
+  background:white;
+  padding-bottom: 45px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 24;
+  font-family: roboto;
+}
+
+#twitter{
+  margin-left: 10px;
+  float:left;
+  background: rgb(0, 150, 255);
+
+}
+i{
+  width:100%;
+}
+#new-quote{
+  margin-right: 10px;
+  float:right;
+  background: rgb(0, 150, 255);
+
+}
+
+#bod{
+  background: rgb(0, 120, 255) !important;
+}
+
+h8{
+  text-align: center;
+}
+
+#end{
+  text-align: center;
+  margin-top: -70px;
+  font-size: 12px;
+
+}
